@@ -1,0 +1,32 @@
+#mountain{
+    position: relative;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+}
+
+#mainsection{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
+
+#navsection{
+    background: rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+}
+
+#carousel{
+    margin-left: 24%;
+    width: 800px;
+}
+
+#text1{
+    background: rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+    
+}
+
+#card1{
+    margin: 20px;
+}
